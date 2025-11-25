@@ -16,6 +16,14 @@ a {
 img{
     max-width: 100%;
 }
+.cover {
+    background-size: cover;
+    background-position: center bottom;
+    height: 800px;
+}
+.cover-home {
+    background-image: url(../images/cover-home-s.webp);
+}
 /* レイアウト */
 .align-center {
     text-align: center;
