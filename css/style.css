@@ -16,18 +16,10 @@ a {
 img{
     max-width: 100%;
 }
-/* ヘッダーカバー画像
-------------------------------*/
 .cover {
     background-size: cover;
     background-position: center bottom;
     height: 800px;
-}
-.sub-cover {
-    background-size: cover;
-    background-position: center bottom;
-    height: 528px;
-    margin-bottom: 4rem;
 }
 /* HOME
 ----------------------------- */
@@ -41,18 +33,6 @@ img{
 }
 .about p {
     margin-bottom: 3rem;
-}
-/* NEWS
------------------------------ */
-.cover-news {
-    background-image: url(../images/cover-news-s.webp);
-}
-.copyright{
-    background-color: #432;
-    text-align: center;
-    padding: 2rem 0;
-    margin-top: 6rem;
-    color: #fff;
 }
 /* レイアウト */
 .wrapper {
