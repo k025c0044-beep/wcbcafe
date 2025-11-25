@@ -78,7 +78,7 @@ img{
     transition: .5s;
 }
 .btn:hover {
-    scale: 1.2;
+    rotate: -5deg;
 }
 
 /* ヘッダー
